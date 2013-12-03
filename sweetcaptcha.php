@@ -5,9 +5,9 @@
  * Don't have any? Sign up at http://sweetcaptcha.com and get them by email
  */
 
-define('SWEETCAPTCHA_APP_ID', 500000); // your application id (change me)
-define('SWEETCAPTCHA_KEY', 'changeme'); // your application key (change me)
-define('SWEETCAPTCHA_SECRET', 'changeme'); // your application secret (change me)
+define('SWEETCAPTCHA_APP_ID', 37530); // your application id (change me)
+define('SWEETCAPTCHA_KEY', 'fe844aa9db216c49367185f6b5ca78ab'); // your application key (change me)
+define('SWEETCAPTCHA_SECRET', '2e55b70102383ecaeb4ad75ddc7dbe4c'); // your application secret (change me)
 define('SWEETCAPTCHA_PUBLIC_URL', 'sweetcaptcha.php'); // public http url to this file
 
 
